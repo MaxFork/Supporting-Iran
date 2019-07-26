@@ -1,0 +1,4 @@
+https://discordapp.com/oauth2/authorize?client_id=588730313912483841&permissions=8&scope=bot
+Supports from discord bot
+Otisbot is helping others to know about the fact of iran and the people are being able to know and support iran.
+A bot made by Kw, Discord:K.W.555#3258
