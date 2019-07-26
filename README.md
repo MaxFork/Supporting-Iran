@@ -15,6 +15,7 @@ https://github.com/1995parham/github-do-not-ban-us
 https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account
 https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions
 https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users
+https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions
 
 # Credits
 * Thank you to all who are supporting Iran!
