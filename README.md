@@ -19,4 +19,3 @@ https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-fac
 
 # Credits
 * Thank you to all who are supporting Iran!
-
